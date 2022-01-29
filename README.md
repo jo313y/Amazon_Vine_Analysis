@@ -11,13 +11,9 @@ In order to determine significant values, the data was filterd to look at anythi
 Out of the N votes, there were 24,673 5-Star rating votes (37.87%). 
 
 ### List Results
-- Vine Reviews
- -- Total
-      0
- -- 5-Star
-      0
- -- Percentage 5-Star 
-      0
+
+![VineReviews](https://user-images.githubusercontent.com/86981530/151673695-1dd7c749-2217-41c6-b03b-d007bc4e3db5.PNG)
+
 
 ## Summary
 Looking at all of the data, there can be no biased determined. This is because there weren't enough Amazon Review Members reviewing enough of the products. Only 27 out of the entire database (which is over 100,000 reviews) is such a small percentage. It's basically zero. This means that there is no biased, because there are no votes to really count. 
